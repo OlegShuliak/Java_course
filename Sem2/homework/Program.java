@@ -12,6 +12,7 @@ public class Program {
             System.out.println("Укажите номер домашней задачи для 2-го семинара:");
             System.out.println("1 - Задача 1: Вывод sql-запроса.");
             System.out.println("2 - Задача 2: Сортировка числового массива с лог-файлом.");
+            System.out.println("3 - Задача 3: Вывод JSON-строки.");
             System.out.println("4 - Задача 4: Простой калькулятор с лог-файлом.");
             System.out.println("0 - Завершение работы приложения");
             int no = Integer.parseInt(scanner.nextLine());
@@ -23,6 +24,9 @@ public class Program {
                     break;
                 case 2:
                     Task2.arrSort();
+                    break;
+                case 3:
+                    Task3.main(args);
                     break;
                 case 4:
                     Task4.calculator();
