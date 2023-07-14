@@ -154,8 +154,8 @@ public class Program {
 
     public static void main(String[] args) {
 
-        task3();
-        //task2();
+        // task3();
+        task2();
         //task1();
 
         ArrayList<UUID> arrayList = new ArrayList<>();
