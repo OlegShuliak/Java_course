@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson5;
+package Sem5.seminar;
 
 import java.util.*;
 
