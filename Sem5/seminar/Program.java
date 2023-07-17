@@ -35,8 +35,8 @@ public class Program {
                 //...
         };
 
-        //task1(data);
-        task2(students);
+        task1(data);
+        // task2(students);
     }
 
     /**
