@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson6;
+package Sem6.seminar;
 
 import java.util.Objects;
 
